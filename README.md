@@ -1,1 +1,1 @@
-Just desgin patterns
+Just design patterns
